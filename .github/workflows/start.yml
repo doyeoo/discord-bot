@@ -27,7 +27,7 @@ jobs:
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
           DISCORD_USERNAME: GitHub Actions
-          DISCORD_AVATAR: https://cdn-icons-png.flaticon.com/512/25/25231.png
+          DISCORD_AVATAR: http://file3.instiz.net/data/cached_img/upload/2019/05/06/15/da83a1e0c6a8d1f2849dc8eaf363b6ed.jpg
         uses: Ilshidur/action-discord@master
         with:
-          args: '🦁🦁🦁 GitHub Actions: {{ GITHUB_EVENT_NAME }}'
+          args: '푸시푸시 GitHub Actions: {{ GITHUB_EVENT_NAME }}'

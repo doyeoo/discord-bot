@@ -30,4 +30,4 @@ jobs:
           DISCORD_AVATAR: https://cdn-icons-png.flaticon.com/512/25/25231.png
         uses: Ilshidur/action-discord@master
         with:
-          args: '안넝 GitHub Actions: {{ GITHUB_EVENT_NAME }}'
+          args: '🦁🦁🦁 GitHub Actions: {{ GITHUB_EVENT_NAME }}'

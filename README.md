@@ -1,2 +1,2 @@
-# discord_bot
+# discord-bot
 hello world!

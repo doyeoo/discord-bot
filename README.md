@@ -1,2 +1,2 @@
-# likelion_hufs_ewha
+# discord_bot
 hello world!
